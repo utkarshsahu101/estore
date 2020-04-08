@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background: pink;
+  height: 18rem;
+  /* display: inline-block; */
+}
+.main-header {
+  background: black;
+  /* position: relative; */
+  padding: 58px 0;
+  color: white;
+}
+.container {
+  margin: -26px 0;
+  background: red;
+  /* display: block; */
+  /* position: absolute; */
+  padding: 24px 0;
+  /* float: left; */
+}
+.flag {
+  float: left; /* margin: 6px; */
+  padding: -25px; /* padding-bottom: 10px; */
+  padding: 1px 25px 0 25px; /* height: 95px; */ /* position: fixed; */ /* width: 19px; */
+  align-content: left;
+  margin-bottom: 10;
+  align-items: left;
+}
+.drop-menu {
+  float: left;
+  padding: 0 6px;
+}
+.phone {
+  float: left;
+  padding: 0 20px 0 20px;
+}
+.nav-main-header {
+  background: grey;
+  display: inline-block;
+  /* padding: 0 10px 0 10px; */
+  /* float: right; */
+} 
+ul {
+  list-style: none;
+}
+/* .header {
+  background: pink;
+}
+.main-header {
+  color: white;
+  background: black;
+  height: 75px;
+}
+.container {
+  padding: 10px;
+}
+.for-float {
+  float: left;
+  width: 10px;
+}
+.header img {
+  margin-top: 5px;
+  margin-left: 5px;
+  width: 20px;
+} */
+/* .header nav ul li a {
+  text-decoration: none;
+  color: white;
+  float: left;
+} */
+
+/* .header_nav {
+  text-decoration: none;
+  color: white;
